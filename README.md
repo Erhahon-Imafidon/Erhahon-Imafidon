@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erhahon-Imafidon
 - 👀 I’m interested in ...Frontend, Backend and Database programming
-- 🌱 I’m currently learning ...Javascript and ES6
+- 🌱 I’m good with javascript, css3 html5 react.js, react-redux, react-bootstrap, react-native and wordpress
 - 💞️ I’m looking to collaborate on ...html, CSS Javascript and virtually all any frontend projects
 - 📫 How to reach me ...email:mafiosco4@gmail.com, phoneNo: +2347069374801
 
